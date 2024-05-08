@@ -12,6 +12,7 @@ I have been immersed in coding since 2020, concurrently pursuing my studies in H
 * 🧠  I'm learning Python, HTML.....
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love watching movies and making webs.
+* 🖥️  Also you can see more projects on Replit[https://replit.com/@AymanXD]
 
 ### Skills
 
