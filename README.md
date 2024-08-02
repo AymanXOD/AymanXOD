@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahath-ul Ayman
 =======================================================================================================================================
 
-A Student & Frontend Developer
+A Frontend Developer
 --------------------------------
 
 I have been immersed in coding since 2020, concurrently pursuing my studies in HTML, JavaScript, and Python. Additionally, I am engaged in my college studies, albeit finding them somewhat tedious. My passion lies in coding, and my ultimate goal is to become a proficient Web and Software Developer. Feel free to explore my portfolio for a glimpse into my work!
